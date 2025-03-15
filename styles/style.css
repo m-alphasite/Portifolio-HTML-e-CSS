@@ -145,6 +145,8 @@ body {
     border-radius: 50%;
 }
 
+
+
 /* Estilo para a imagem about */
 .about_img {
     display: block;
@@ -176,6 +178,11 @@ body {
     }
 
     .imagem_index {
+        width: 80%; /* Ajusta a imagem */
+        margin-top: 20px; /* Adiciona um espaçamento acima da imagem */
+    }
+
+    .about_img {
         width: 80%; /* Ajusta a imagem */
         margin-top: 20px; /* Adiciona um espaçamento acima da imagem */
     }
